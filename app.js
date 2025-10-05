@@ -1,10 +1,9 @@
 import React from "react";
-import Header from "./components/Header";
-import About from "./components/About";
-import Skills from "./components/Skills";
-import Projects from "./components/Projects";
-import Contact from "./components/Contact";
-import Footer from "./components/Footer";
+import Header from "header.js";
+import About from "about.js";
+import Skills from "skills.js";
+import Projects from "projects.js";
+import Contact from "contact.js";
 
 function App() {
   return (
